@@ -62,9 +62,9 @@ Here are some example prediction images showing bounding boxes:
 
 ## 🧪 Example Prediction
 
-_Plot of a test image with predicted (red) and actual (green) bounding box can go here_
-
+![Car Image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Car_detection_example.jpg/640px-Car_detection_example.jpg)
 ---
+
 
 ## 🔧 How to Run
 
