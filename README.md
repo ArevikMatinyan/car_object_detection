@@ -29,16 +29,14 @@ This project uses a custom Convolutional Neural Network (CNN) to detect cars and
 
 ## 🧪 Example Predictions
 
-Here are some example images demonstrating car detection with bounding boxes:
+Here are some example prediction images showing bounding boxes:
 
-![Example Prediction 1](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Car_detection_example.jpg/640px-Car_detection_example.jpg)
+![Prediction Example 1](images/prediction1.png)
+
 *Red box = Predicted bounding box*  
 *Green box = Ground truth bounding box*
 
-![Example Prediction 2](https://miro.medium.com/max/700/1*ei5aQDX0mG_E9mjdfkp_2g.png)
-*Sample result from a car detection model*
-
-*(Replace these with your own saved prediction screenshots for best results)*
+![Prediction Example 2](images/prediction2.png)
 
 ---
 
